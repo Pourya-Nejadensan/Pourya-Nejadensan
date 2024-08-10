@@ -13,8 +13,12 @@ I'm a passionate Software Developer with a love for creating innovative solution
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pourya-nejadensan&show_icons=true&theme=codeSTACKr" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pourya-nejadensan&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pourya-nejadensan&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
 </a>
+
+## 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pourya-nejadensan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Connect
 
