@@ -1,11 +1,11 @@
-```markdown
+
 # Hello, I'm [Pourya Nejadensan] 👋
 
 I'm a passionate Software Developer with a love for creating innovative solutions to complex problems.
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,c#,html,css,javascript,typescript,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,git,github,gitlab,maven,idea,visualstudio,vscode,html,css,javascript,typescript,react,mongodb,mysql,npm,postgres,postman,powershell,bootstrap,docker,eclipse,aws,azure,bash,bitbucket,jenkins,angular,py,ubuntu,wordpress)](https://skillicons.dev)
 
 ## 📫 Let's Connect
 
@@ -17,4 +17,4 @@ I'm a passionate Software Developer with a love for creating innovative solution
 
 *“Jeder Tag ist eine neue Chance, besser zu werden als gestern. Nutze sie,
  lerne, wachse und werde die beste Version von dir selbst.”*
-```
+
