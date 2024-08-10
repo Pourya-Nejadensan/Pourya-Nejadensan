@@ -20,6 +20,9 @@ I'm a passionate Software Developer with a love for creating innovative solution
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pourya-nejadensan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![github-snake](https://github.com/user-attachments/assets/b4f37658-638c-4776-bd72-18b35071603a)
+
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/pourya-nejadensan)
