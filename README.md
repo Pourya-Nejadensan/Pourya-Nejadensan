@@ -1,32 +1,3 @@
-Creating a professional GitHub profile is essential to showcase your skills, projects, and contributions to potential employers, collaborators, or clients. Here’s a step-by-step guide to help you write a compelling GitHub profile README:
-
-### 1. **Introduction:**
-   - Start with a brief introduction about who you are, what you do, and what you are passionate about. This can be a few sentences that capture your essence as a developer or professional.
-
-### 2. **Skills:**
-   - List the key programming languages, technologies, and tools you are proficient in. You can use icons or badges to make this section visually appealing.
-
-### 3. **Projects:**
-   - Highlight a few key projects that demonstrate your expertise. Provide a brief description, mention the technologies used, and link to the repository.
-   - If applicable, mention any live demos or deployed versions of the project.
-
-### 4. **Experience:**
-   - Briefly mention your professional experience, including relevant positions, companies, or freelance work. Highlight your key achievements or responsibilities.
-
-### 5. **Education & Certifications:**
-   - List your educational background and any certifications you have obtained that are relevant to your career.
-
-### 6. **Open Source Contributions:**
-   - If you have contributed to open-source projects, list them here. Highlight the impact of your contributions or any significant features you helped develop.
-
-### 7. **Contact Information:**
-   - Provide ways for people to reach out to you, such as your LinkedIn, personal website, or email.
-
-### 8. **Fun Facts / Personal Interests (Optional):**
-   - Add a personal touch by sharing something unique about yourself that reflects your personality outside of work, like hobbies or interests.
-
-### Sample GitHub Profile README
-
 ```markdown
 # Hello, I'm [Pourya Nejadensan] 👋
 
@@ -81,18 +52,12 @@ Briefly describe your contribution.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Personal Website](https://yourwebsite.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/pourya-nejadensan)
+- [Xing](https://www.xing.com/profile/Pourya_Nejadensan)
+- [Email](mailto:pourya.nejadensan@gmail.com)
 
 ---
 
-*“Your favorite quote or personal motto.”*
+*“Jeder Tag ist eine neue Chance, besser zu werden als gestern. Nutze sie,
+ lerne, wachse und werde die beste Version von dir selbst.”*
 ```
-
-### Tips:
-- **Keep it updated:** Regularly update your profile with new skills, projects, and experiences.
-- **Visuals:** If possible, add visuals such as screenshots of your projects, diagrams, or infographics to make your profile more engaging.
-- **Consistency:** Ensure that your GitHub profile aligns with your LinkedIn and other professional profiles.
-
-This template is customizable, so feel free to adjust it according to your personal style and professional needs.
