@@ -1,5 +1,5 @@
 
-# Hello, I'm [Pourya Nejadensan] 👋
+# Hello, I'm Pourya Nejadensan 👋
 
 I'm a passionate Software Developer with a love for creating innovative solutions to complex problems.
 
