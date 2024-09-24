@@ -34,3 +34,7 @@ I'm a passionate Software Developer with a love for creating innovative solution
 *“Jeder Tag ist eine neue Chance, besser zu werden als gestern. Nutze sie,
  lerne, wachse und werde die beste Version von dir selbst.”*
 
+##
+
+ [![](https://visitcount.itsvg.in/api?id=PouryaNj&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
